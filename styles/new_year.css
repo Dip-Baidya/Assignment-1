@@ -1,0 +1,48 @@
+/* Main Section Design */
+
+/* Banner Section Design */
+* {
+    margin: 0px;
+}
+
+body {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    max-width: 1140px;
+}
+
+.head {
+    background-image: url('../images/resources/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    /* background-attachment: fixed; */
+    border-radius: 16px;
+    margin: auto;
+    /* height: 600px; */
+    /* width: 100%; */
+}
+
+.banner{
+    margin-top: 80px;
+}
+.banner-content {
+    text-align: center;
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    padding: 190px;
+    border-radius: 16px;
+}
+
+.banner-title {
+    color: #FFF;
+    font-size: 35px;
+    font-style: normal;
+}
+
+.new-year-celebration {
+    color: #FFF;
+    font-size: 72px;
+}
