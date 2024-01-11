@@ -1,9 +1,8 @@
-/* Main Section Design */
-
-/* Banner Section Design */
 * {
     margin: 0px;
 }
+
+/* Banner Section Design */
 
 body {
     font-family: 'Merriweather Sans', sans-serif;
@@ -26,9 +25,10 @@ header {
     /* width: 100%; */
 }
 
-.banner{
+.banner {
     margin-top: 80px;
 }
+
 .banner-content {
     text-align: center;
     background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
@@ -38,11 +38,39 @@ header {
 
 .banner-title {
     color: #FFF;
-    font-size: 35px;
-    font-style: normal;
+    font-size: 40px;
+    font-family: Merriweather;
 }
 
-.new-year-celebration {
+.banner-Party {
     color: #FFF;
-    font-size: 72px;
+    font-size: 65px;
+    font-family: Merriweather;
+}
+.banner-celebratioin{
+    color: #FFF;
+    font-size: 60px;
+    font-family: Merriweather;
+}
+
+
+/* Main Section Design */
+
+.all-categorie-section {
+    text-align: center;
+}
+
+.all-categorie-section h3 {
+    color: #F00;
+    font-size: 85px;
+}
+
+.all-categorie-section p {
+    color: #F00;
+    font-size: 20px;
+}
+
+.all-categorie-section h4{
+    color: #070211;
+    font-size: 40px;
 }
