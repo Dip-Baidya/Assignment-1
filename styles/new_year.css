@@ -190,3 +190,84 @@ main {
     line-height: 56px;
     text-transform: capitalize;
 }
+
+/* comming soon style section */
+
+
+.comming-soon-section {
+    background: #FFF;
+    margin-top: 120px;
+}
+
+.comming-soon-content {
+    display: flex;
+    align-items: center;
+    /* gap: 50px; */
+    /* grid-template-columns: auto auto auto; */
+}
+
+.comming-soon-title-area {
+    width: 39%;
+}
+
+.comming-soon-title {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+
+.comming-soon {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 40px;
+    padding-bottom: 20px;
+    padding-top: 8px;
+}
+
+.comming-soon-paragraph {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    line-height: 28px;
+}
+
+.comming-soon-year-area {
+    padding-left: 50px;
+}
+
+.comming-soon-year {
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+}
+
+.comming-soon-year-paragraph {
+    padding-bottom: 15px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    line-height: 32px;
+    padding-top: 15px;
+}
+
+.comming-soon-image-area {
+    background-color: #fff;
+    /* gap: 10px; */
+    padding-left: 20px;
+}
+
+.comming-soon-image {
+    display: block;
+    margin: 0 auto;
+    height: 300px;
+    width: 300px;
+    padding: 20px;
+    border-radius: 463px;
+    border: 13px solid #F00;
+}
+
+.comming-soon-happy-new-year {
+    width: 30%;
+}
