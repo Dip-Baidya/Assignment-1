@@ -368,3 +368,48 @@ main {
     margin-left: -80px;
     padding-right: 40px;
 } */
+
+.holiday-image-section {
+    background-image: url('../images/resources/Rectangle\ 2.png');
+    background-repeat: no-repeat;
+    background-size: 1140px 157px;
+    background-position: bottom;
+    width: auto;
+    border-radius: 16px 0px 16px 16px;
+}
+
+.holiday-image-section-inner-area {
+    background-image: url('../images/resources/Rectangle\ 1.png');
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: 284px auto;
+    /* margin-bottom: 30px; */
+    /* width: 429px; */
+    /* height: 433px; */
+
+    /* left top
+left center
+left bottom
+right top
+right center
+right bottom
+center top
+center center
+center bottom */
+
+}
+
+.packet-50-discount {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.image-2 {
+    width: 206.841px;
+    height: 206.841px;
+}
+
+.image-1 {
+    /* width: 156.602px; */
+    height: 286.54px;
+}
