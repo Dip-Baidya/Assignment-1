@@ -366,3 +366,114 @@ main {
     left: 6px;
     top: -92px;
 }
+
+/* portfolio style section */
+
+.portfolio-section {
+    color: #fff;
+}
+
+.portfolio-info {
+    width: 768px;
+    margin-top: 120px;
+}
+
+.portfolio-punch-line {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+}
+
+.portfolio-title {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    padding-top: 12px;
+    padding-bottom: 20px;
+}
+
+.portfolio-paragraph {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    line-height: 32px;
+}
+
+.full-column {}
+
+.column-image {
+    width: 367px;
+    margin: 10px;
+    margin-left: 0px;
+    margin-top: 20px;
+    /* height: 450px; */
+}
+
+/* Newsletterstyle section */
+.newsletter-section {
+    margin-top: 100px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+}
+
+.newsletter-content {
+    width: 896px;
+    text-align: center;
+    padding-inline: 118px;
+}
+
+.envolape {
+    /* display: flex; */
+    /* margin-left: auto;
+    margin-right: auto;
+    width: 9%; */
+    width: 130px;
+    height: 130px;
+    padding-top: 70px;
+}
+
+.subscribe-title {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.subscribe-text {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    line-height: 32px;
+    padding-bottom: 30px;
+}
+
+.subscription-email-form-area {
+    padding-bottom: 80px;
+    padding-left: 190px;
+}
+
+.subscribe-input {
+    color: rgba(7, 2, 17, 0.30);
+    font-family: Inter;
+    font-size: 18px;
+    border-radius: 50px;
+    background: #FFF;
+    width: 648px;
+    height: 72px;
+    border: none;
+    padding-inline-start: 50px;
+}
+
+.subscribe-btn {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    border: none;
+    width: 210px;
+    height: 72px;
+    position: relative;
+    right: 120px;
+}
