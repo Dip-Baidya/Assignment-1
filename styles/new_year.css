@@ -291,7 +291,7 @@ main {
     padding: 130px;
     padding-left: 130px;
     padding-right: 130px;
-    padding-bottom: 50px;
+    padding-bottom: 150px;
 }
 
 
@@ -324,51 +324,6 @@ main {
     font-size: 72px;
 }
 
-/* .holiday-image-section{
-    background-image: url('../images/resources/Rectangle\ 1.png');
-    background-repeat: no-repeat;
-    background-position: center;
-    background-position:  10px bottom;
-} */
-
-/* .holidays-section .content6 {
-    align-items: center;
-    display: flex;
-    width: 1020px;
-    height: 129px;
-    background-color: #F00;
-    margin-left: 175px;
-    margin-right: 440px;
-    border-radius: 12px;
-}
-
-.holidays-section .content6 .img-1 {
-    width: 350px;
-    height: 300.841px;
-    margin-bottom: 270px;
-
-}
-
-.holidays-section .content6 .con {
-    width: 465px;
-    height: 369px;
-    margin-left: 290px;
-    margin-bottom: 490px;
-    background: url('../images/resources/Rectangle\ 1.png');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: 10px bottom;
-}
-
-
-.holidays-section .content6 .img-2 {
-    width: 165px;
-    height: 169;
-    margin-top: 120px;
-    margin-left: -80px;
-    padding-right: 40px;
-} */
-
 .hole-holiday-section {
     height: 1200px;
 }
@@ -382,16 +337,25 @@ main {
     border-radius: 16px 0px 16px 16px;
 }
 
-.holiday-image-section-inner-area {
-    background-image: url('../images/resources/Rectangle\ 1.png');
-    background-repeat: no-repeat;
-    background-position: right 50px;
-    background-size: 290px auto;
-}
-
 .packet-50-discount {
     display: flex;
     justify-content: space-evenly;
+}
+
+.image-0 {
+    width: 250.841px;
+    height: 250.841px;
+    border-radius: 16px 16px 0px 0px;
+    position: relative;
+    left: 835px;
+    top: -120px;
+}
+
+.image-1 {
+    height: 286.54px;
+    position: relative;
+    left: -195px;
+    top: -51px;
 }
 
 .image-2 {
@@ -401,10 +365,4 @@ main {
     position: relative;
     left: 45px;
     top: -79px;
-}
-
-.image-1 {
-    height: 286.54px;
-    position: relative;
-    left: -45px;
 }
