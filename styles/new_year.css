@@ -369,6 +369,10 @@ main {
     padding-right: 40px;
 } */
 
+.hole-holiday-section{
+    height: 1200px;
+}
+
 .holiday-image-section {
     background-image: url('../images/resources/Rectangle\ 2.png');
     background-repeat: no-repeat;
@@ -381,21 +385,11 @@ main {
 .holiday-image-section-inner-area {
     background-image: url('../images/resources/Rectangle\ 1.png');
     background-repeat: no-repeat;
-    background-position: right center;
-    background-size: 284px auto;
+    background-position: right 50px;
+    background-size: 290px auto;
     /* margin-bottom: 30px; */
     /* width: 429px; */
     /* height: 433px; */
-
-    /* left top
-left center
-left bottom
-right top
-right center
-right bottom
-center top
-center center
-center bottom */
 
 }
 
@@ -407,7 +401,17 @@ center bottom */
 .image-2 {
     width: 206.841px;
     height: 206.841px;
+    padding-right: 120px;
 }
+
+/* #image-2-background{
+    background-image: url('../images/resources/Rectangle\ 1.png');
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: 208px;
+    margin-left: 584px;
+    margin-bottom: 152px;
+} */
 
 .image-1 {
     /* width: 156.602px; */
